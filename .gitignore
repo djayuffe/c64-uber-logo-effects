@@ -1,0 +1,4 @@
+build/
+*.d64
+*.vsf
+.DS_Store

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "uber_mc_full_320x200",
+    "type": "mcbitmap",
+    "stored": "160x200",
+    "display": "320x200",
+    "bitmap": 8000,
+    "screen": 1000,
+    "color": 1000
+  },
+  {
+    "name": "uber_mc_logo_320x64",
+    "type": "mcbitmap",
+    "stored": "160x64",
+    "display": "320x64",
+    "bitmap": 2560,
+    "screen": 320,
+    "color": 320
+  },
+  {
+    "name": "uber_mc_banner_320x50",
+    "type": "mcbitmap",
+    "stored": "160x56",
+    "display": "320x56",
+    "bitmap": 2240,
+    "screen": 280,
+    "color": 280
+  },
+  {
+    "name": "uber_mc_small_160x48",
+    "type": "mcbitmap",
+    "stored": "80x48",
+    "display": "160x48",
+    "bitmap": 960,
+    "screen": 120,
+    "color": 120
+  },
+  {
+    "name": "uber_hires_320x64",
+    "type": "hiresbitmap",
+    "size": "320x64",
+    "bitmap": 2560,
+    "screen": 320
+  },
+  {
+    "name": "uber_hires_320x32",
+    "type": "hiresbitmap",
+    "size": "320x32",
+    "bitmap": 1280,
+    "screen": 160
+  },
+  {
+    "name": "uber_charset_320x64",
+    "type": "charset",
+    "size": "320x64",
+    "chars": 54,
+    "charset": 432,
+    "screen": 320,
+    "color": 320
+  },
+  {
+    "name": "uber_charset_160x40",
+    "type": "charset",
+    "size": "160x40",
+    "chars": 41,
+    "charset": 328,
+    "screen": 100,
+    "color": 100
+  },
+  {
+    "name": "uber_sprite_logo_144x42",
+    "type": "sprites",
+    "display": "144x42",
+    "sprites": 12,
+    "data": 768,
+    "colors": 12
+  }
+]
